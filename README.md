@@ -40,7 +40,7 @@ Dentre as funcionalidades, é possível criar, editar, visualizar e excluir prod
 
 ## Demonstração
 
-Para acessar a demonstração da solução desenvolvida, acesse o link [Projeto Mercado Chapadão] (https://mercadochapadao.zsis.com.br)
+Para acessar a demonstração da solução desenvolvida, acesse o link [Projeto Mercado Chapadão](https://mercadochapadao.zsis.com.br)
 
  
 
